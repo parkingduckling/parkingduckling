@@ -1,1 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=parking%20duck&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffd00C&height=250&section=header&text=parking%20duck&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkingduckling&layout=compact)](https://github.com/****/github-readme-stats)
