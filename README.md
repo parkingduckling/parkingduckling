@@ -2,5 +2,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkingduckling&layout=compact)](https://github.com/****/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pka333)](https://solved.ac/pka333/)
-[![Solved.ac
-pka333](http://mazassumnida.wtf/api/mini/generate_badge?boj=pka333)](https://solved.ac/pka333)
